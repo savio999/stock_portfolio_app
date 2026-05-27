@@ -122,16 +122,6 @@ Recommended tools:
 - DBeaver
 - MySQL Workbench
 
-## MySQL Connection
-
-| Setting | Value |
-|---|---|
-| Host | localhost |
-| Port | 3306 |
-| Database | stock_portfolio |
-| Username | stock_portfolio |
-| Password | portfolio890 |
-
 ---
 
 # Useful Docker Commands

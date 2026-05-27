@@ -1,0 +1,7 @@
+src/.env
+src/vendor
+srv/node_modules
+env/mysql.env
+
+.git
+.gitignore
